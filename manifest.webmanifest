@@ -1,0 +1,22 @@
+{
+  "name": "Game Câu Cá V3 - Poca & Pica",
+  "short_name": "Game Câu Cá",
+  "description": "Game học tập câu cá thích ứng dành cho Poca và Pica",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#dff6ff",
+  "theme_color": "#1ca8ff",
+  "orientation": "landscape",
+  "icons": [
+    {
+      "src": "assets/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
